@@ -1,0 +1,11 @@
+# SSL Certs
+conf/ssl/
+
+# data
+data/
+
+# source
+data/
+
+# PHPStorm
+.idea
